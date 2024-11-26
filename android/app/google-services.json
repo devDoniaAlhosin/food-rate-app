@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265420668583",
+    "project_id": "awen-6cb53",
+    "storage_bucket": "awen-6cb53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265420668583:android:07bc34167f55b538002582",
+        "android_client_info": {
+          "package_name": "com.huynh.listar_flutter_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5_r17xNnn58z4G1aX8zhWKwTKyzLXBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
